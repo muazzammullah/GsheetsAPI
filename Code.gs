@@ -9,8 +9,7 @@ function doGet(e) {
     
 //get spreadsheet connected to  this script
     var apisheet = SpreadsheetApp.getActiveSpreadsheet();
-//    
-//  Logger.log(e.parameter["filter_by_name"]);
+  
     var ss = SpreadsheetApp.getActiveSpreadsheet();
 
     try{
@@ -34,17 +33,14 @@ function doGet(e) {
     }
     
 //get last row of sheet
-    
-    
+  
 //get last colomn of sheet
     var last_col=source.getLastColumn();
-    
+  
 //get headers for json keys
     var headers=source.getRange(1,1,1,last_col);
     
-
     var arr_header=headers.getValues()[0];
-    
 //get key values from spreadsheet
     var myresults=source.getRange(2,1,lastrow-1,last_col);
     
