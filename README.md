@@ -24,9 +24,8 @@ https://script.google.com/macros/s/{id}/exec?sheet=mysheet
 which should return data.
 
 
-Required Parameters  Description
-sheet                Select sheet by Name
-sort                 Sort sheet by colomn name (all lowercase)
-
-
-
+| Required Parameters | Description                               |
+|---------------------|-------------------------------------------|
+| sheet               | Select sheet by Nam                       |
+| sort                | Sort sheet by colomn name (all lowercase) |
+|                     |                                           |
