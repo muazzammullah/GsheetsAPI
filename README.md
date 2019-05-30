@@ -27,5 +27,9 @@ which should return data.
 | Required Parameters | Description                               |
 |---------------------|-------------------------------------------|
 | sheet               | Select sheet by Name                      |
+
+
+| Optional Parameters | Description                               |
+|---------------------|-------------------------------------------|
 | sort                | Sort sheet by colomn name (all lowercase) |
 |                     |                                           |
