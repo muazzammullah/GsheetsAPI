@@ -26,6 +26,6 @@ which should return data.
 
 | Required Parameters | Description                               |
 |---------------------|-------------------------------------------|
-| sheet               | Select sheet by Nam                       |
+| sheet               | Select sheet by Name                      |
 | sort                | Sort sheet by colomn name (all lowercase) |
 |                     |                                           |
