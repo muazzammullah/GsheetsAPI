@@ -12,9 +12,7 @@ Who has access to the app:
 Anyone,Even Anonymous
 
 Then to test,copy the web app url and paste inside web browser.
-{
-status:"Error 400 Bad Request-Sheet Name Parameter Missing"
-}
+
 
 API DOCUMENTATION
 
