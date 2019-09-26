@@ -24,7 +24,7 @@ Press publish button and follow **all** authorisation prompts
 ## Step 6
 You will receive your **Current web app URL**
 
-Congratulations you are now able to access a rest api which you can use to receive data from your sheets.Have a look to
+Congratulations you are now able to access a rest api which you can use to receive data from your sheets.Have a look below to see how to use your rest api
 
 # API Documentation
 
