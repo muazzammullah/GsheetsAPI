@@ -12,8 +12,6 @@ Click on Publish and in the dropdown that displays,click deploy as web app.
 ## Step 4
 There will be a few options
 ### Execute the app as;Choose
-Me
-### Execute the app as;Choose
 Me(Your email Address)
 ### Who has access to the app;Choose
 Anyone,even Anonymous
